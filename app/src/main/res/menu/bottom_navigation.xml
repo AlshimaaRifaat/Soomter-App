@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/icon_main"
+    android:title="الرئيسيه"
+    android:icon="@drawable/i3"
+
+    />
+    <item
+        android:id="@+id/icon_search"
+        android:title="بحث"
+        android:icon="@drawable/search_gray"
+        />
+    <item
+        android:id="@+id/icon_notify"
+        android:title="التنبيهات"
+        android:icon="@drawable/notify"
+        />
+</menu>
